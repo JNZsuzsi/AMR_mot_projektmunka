@@ -1,0 +1,2 @@
+# AMR_mot_projektmunka
+ Antibiotikum-rezisztenciagének konzervált motívumainak azonosítása és bioinformatikai elemzése
